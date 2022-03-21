@@ -16,7 +16,7 @@ Open vs code terminal
 ```sh
 install npm
 ```
-Open project in browser with lite server
+Open your project in browser with lite server
 
 ```sh
 npm run dev
